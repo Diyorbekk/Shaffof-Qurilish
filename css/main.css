@@ -1,0 +1,286 @@
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/
+/**/ /**/ /**/
+/**/ /**/
+/**/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+/* colors css*/
+
+.color-light-grey-F8{
+    color: #F8F9FA;
+}
+
+.bg-light-grey-F8{
+    background: #F8F9FA;
+}
+
+.color-medium-grey-29{
+    color: #00000029;
+}
+
+.bg-medium-grey-29{
+    background: #00000029;
+}
+
+.color-medium-grey-7B{
+     color: #7B7B7B;
+ }
+
+.bg-medium-grey-7B{
+    background: #7B7B7B;
+}
+
+.color-medium-grey-7F{
+    color: #7F7F7F;
+}
+
+.bg-medium-grey-7F{
+    background: #7F7F7F;
+}
+
+.color-light-grey-B7{
+    color: #B7B7B7;
+}
+
+.bg-light-grey-B7{
+    background: #B7B7B7;
+}
+
+.color-light-blue-002{
+    color: #B7B7B7;
+}
+
+.bg-light-blue-002{
+    background: #B7B7B7;
+}
+
+.color-medium-black{
+    color: #0F0F0F;
+}
+
+.bg-medium-black{
+    background: #0F0F0F;
+}
+
+.color-medium-grey-9E{
+    color: #9E9E9E;
+}
+
+.bg-medium-grey-9E{
+    background: #9E9E9E;
+}
+
+.color-medium-grey-C8{
+    color: #C8C8C8;
+}
+
+.bg-medium-grey-C8{
+    background: #C8C8C8;
+}
+
+.color-light-grey-F4{
+    color: #F4F5F9;
+}
+
+.bg-light-grey-F4{
+    background: #F4F5F9;
+}
+
+.color-dark-grey-7F{
+    color: #7F7F7F;
+}
+
+.bg-dark-grey-7F{
+    background: #7F7F7F;
+}
+
+.color-dark-grey-7B{
+    color: #7B7B7B;
+}
+
+.bg-dark-grey-7B{
+    background: #7B7B7B;
+}
+
+.color-light-grey-E7{
+    color: #E7E7E7;
+}
+
+.bg-light-grey-E7{
+    background: #E7E7E7;
+}
+
+
+.color-blue{
+    color: #2452EB;
+}
+
+.bg-blue{
+    background: #2452EB;
+}
+
+.color-dark-blue{
+    color: #28366D;
+}
+
+.bg-dark-blue{
+    background: #28366D;
+}
+
+.color-yellow{
+    color: #EDBD00;
+}
+
+.bg-yellow{
+    background: #EDBD00;
+}
+
+
+
+/* Text-size and color css */
+
+.text-11{
+    font-size: 11px;
+}
+
+.text-12{
+    font-size: 12px;
+}
+
+.text-13{
+    font-size: 13px;
+}
+
+.text-14{
+    font-size: 14px;
+}
+
+.text-18{
+    font-size: 18px;
+}
+
+.text-19{
+    font-size: 19px;
+}
+
+.text-20{
+    font-size: 20px;
+}
+
+.text-26{
+    font-size: 26px;
+}
+
+.text-32{
+    font-size: 32px;
+}
+
+.text-33{
+    font-size: 33px;
+}
+
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/
+/**/ /**/ /**/
+/**/ /**/
+/**/
+
+/* Pages Nav menu css style start */
+.header-box{
+    background: #FFFFFF;
+    width: 100%;
+    height: 135px;
+    position: fixed;
+    z-index: 9000;
+    overflow: auto;
+    text-align: center;
+    transition: all 0.5s linear;
+    padding: 0 5px;
+}
+
+.header-box.active{
+    box-shadow: 0 3px 6px #00000029;
+}
+
+.header-top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 0;
+    border-bottom: 1px solid #00000029;
+}
+
+.header-top-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lang-text{
+    cursor: pointer;
+}
+
+.lang-text.active{
+    color: #28366D;
+}
+
+.header-bottom
+
+
+/* Pages Nav menu css style end */
+
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/
+/**/ /**/ /**/
+/**/ /**/
+/**/
+
+/* Pages Footer menu css style start */
+
+
+
+/* Pages Footer menu css style end */
+
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/
+/**/ /**/ /**/
+/**/ /**/
+/**/
+
+/* main-page css style start */
+
+/* main-page css style end */
+
+
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/ /**/
+/**/ /**/ /**/ /**/
+/**/ /**/ /**/
+/**/ /**/
+/**/
