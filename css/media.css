@@ -36,7 +36,60 @@
 /**/ /**/
 /**/
 @media (min-width: 1024px) and (max-width: 1299px) {
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
 
+    /* Pages Nav menu css style start */
+    .header-logo-img {
+        width: 200px;
+        height: 36px;
+        margin-right: 25px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+
+    .nav-link{
+        font-size: 14px;
+    }
+
+    /* Pages Nav menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* main-page css style start */
+
+    .territorial-administrations{
+        margin-bottom: 40px;
+    }
+
+    /* main-page css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
 }
 
 /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
@@ -61,6 +114,87 @@
 /**/ /**/
 /**/
 @media (min-width: 768px) and (max-width: 1023px) {
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* Pages Nav menu css style start */
+
+    .header-bottom-box {
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+    }
+
+    .navbar {
+        padding-top: 0;
+        justify-content: flex-end;
+    }
+
+    .navbar-collapse{
+        margin-top: 20px;
+    }
+
+    .header-logo-img {
+        width: 200px;
+        height: 36px;
+        margin-right: 25px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+
+    .nav-link{
+        font-size: 14px;
+    }
+
+    .nav-item {
+        text-align: right;
+        margin-right: 0;
+    }
+
+    .nav-link {
+        width: 100%;
+        text-align: right;
+    }
+
+        /* Pages Nav menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* main-page css style start */
+
+    .territorial-administrations{
+        margin-bottom: 40px;
+    }
+
+    /* main-page css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
 
 }
 
@@ -88,6 +222,119 @@
 
 @media (min-width: 416px) and (max-width: 767px) {
 
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* Pages Nav menu css style start */
+
+    .header-bottom-box {
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+    }
+
+    .navbar {
+        padding-top: 0;
+        justify-content: flex-end;
+    }
+
+    .navbar-collapse{
+        margin-top: 20px;
+    }
+
+    .header-logo-img {
+        width: 200px;
+        height: 36px;
+        margin-right: 25px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+
+    .nav-link{
+        font-size: 14px;
+    }
+
+    .nav-item {
+        text-align: right;
+        margin-right: 0;
+
+    }
+
+    .nav-link {
+        width: 100%;
+        text-align: right;
+    }
+
+    /* Pages Nav menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* main-page css style start */
+
+    .swiper-container-horizontal > .swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        left: 60%;
+    }
+
+    .carousel-text {
+        width: 80%;
+    }
+
+    .carousel-box {
+        height: 300px;
+    }
+
+    /* main-page css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* Pages Footer menu css style start */
+
+    .footer {
+        padding: 20px 0 20px 0;
+    }
+
+    .footer-links-box{
+        display: flex;
+        justify-content: start;
+    }
+
+    /* Pages Footer menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
 }
 
 /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
@@ -114,6 +361,118 @@
 
 @media (min-width: 321px) and (max-width: 415px) {
 
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* Pages Nav menu css style start */
+
+    .header-bottom-box {
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+    }
+
+    .navbar {
+        padding-top: 0;
+        justify-content: flex-end;
+    }
+
+    .navbar-collapse{
+        margin-top: 20px;
+    }
+
+    .header-logo-img {
+        width: 200px;
+        height: 36px;
+        margin-right: 25px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+
+    .nav-link{
+        font-size: 14px;
+    }
+
+    .nav-item {
+        text-align: right;
+        margin-right: 0;
+    }
+
+    .nav-link {
+        width: 100%;
+        text-align: right;
+    }
+
+    /* Pages Nav menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* main-page css style start */
+
+    .swiper-container-horizontal > .swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        left: 60%;
+    }
+
+    .carousel-text {
+        width: 80%;
+    }
+
+    .carousel-box {
+        height: 300px;
+    }
+
+    /* main-page css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* Pages Footer menu css style start */
+
+    .footer {
+        padding: 20px 0 20px 0;
+    }
+
+    .footer-links-box{
+        display: flex;
+        justify-content: start;
+    }
+
+    /* Pages Footer menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
 }
 
 /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
@@ -139,6 +498,118 @@
 /**/
 
 @media (max-width: 320px) {
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* Pages Nav menu css style start */
+
+    .header-bottom-box {
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+    }
+
+    .navbar {
+        padding-top: 0;
+        justify-content: flex-end;
+    }
+
+    .navbar-collapse{
+        margin-top: 20px;
+    }
+
+    .header-logo-img {
+        width: 200px;
+        height: 36px;
+        margin-right: 25px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+
+    .nav-link{
+        font-size: 14px;
+    }
+
+    .nav-item {
+        text-align: right;
+        margin-right: 0;
+    }
+
+    .nav-link {
+        width: 100%;
+        text-align: right;
+    }
+
+    /* Pages Nav menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* main-page css style start */
+
+    .swiper-container-horizontal > .swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+        left: 60%;
+    }
+
+    .carousel-text {
+        width: 100%;
+    }
+
+    .carousel-box {
+        height: 300px;
+    }
+
+    /* main-page css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
+
+    /* Pages Footer menu css style start */
+
+    .footer {
+        padding: 20px 0 20px 0;
+    }
+
+    .footer-links-box{
+        display: flex;
+        justify-content: start;
+    }
+
+    /* Pages Footer menu css style end */
+
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/
+    /**/ /**/ /**/
+    /**/ /**/
+    /**/
 
 }
 
