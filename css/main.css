@@ -576,6 +576,57 @@
 
 /* main-page css style end */
 
+/* Pages css style start */
+
+.transform-square{
+    display: block;
+    width: 14px;
+    height: 14px;
+    transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
+}
+
+.text-active{
+    border-bottom: 4px solid #334075;
+}
+
+.w-130-px{
+    width: 130px;
+}
+
+.accordion-application{
+    cursor: pointer;
+    align-items: center;
+}
+
+.icon-plus {
+    transform-origin: 50% 50%;
+    transition: all 0.5s ease;
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.icon-minus {
+    transform-origin: 50% 50%;
+    transition: all 0.5s ease;
+    color: black;
+    transform: rotate(90deg);
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.input-style input::placeholder{
+    color: #C4C4C4;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+
+
+
+/* Pages css style end */
+
+
 
 /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
 /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/

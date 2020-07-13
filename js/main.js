@@ -8,6 +8,14 @@ $(document).ready(function () {
         }
     });
 
+    $('.accordion-application').on('click', function () {
+        $(this).toggleClass("bg-white bg-light-grey-F4");
+        $(this).toggleClass("border-bottom border-0");
+        $(this).find("i").toggleClass("icon-minus icon-plus");
+        $(this).find("h4").css("border-bottom", "none");
+        $(this).parent().find('.accordion-block').slideToggle();
+    });
+
 
     $('.first-menu-link').on('click', function () {
         if ($('.two-menu').show() && $('.three-menu').show() && $('.four-menu').show() && $('.five-menu').show()) {
@@ -171,7 +179,7 @@ $(document).ready(function () {
 
                             {
 
-                                duration: 4000,
+                                duration: 2000,
                                 easing: 'linear',
                                 step: function () {
                                     $this.text(Math.floor(this.countNum));
