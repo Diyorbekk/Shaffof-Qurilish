@@ -593,6 +593,16 @@
     width: 130px;
 }
 
+.responsibilities,
+.biography{
+    display: flex;
+}
+
+#responsibilities,
+#biography{
+    cursor: pointer;
+}
+
 .accordion-application{
     cursor: pointer;
     align-items: center;

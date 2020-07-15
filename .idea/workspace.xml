@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd68f8bd-cc84-4df7-8301-d8ad1908a561" name="Default Changelist" comment="" />
+    <list default="true" id="dd68f8bd-cc84-4df7-8301-d8ad1908a561" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_ministry.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_ministry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/central-hardware.html" beforeDir="false" afterPath="$PROJECT_DIR$/central-hardware.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/certificates-of-conformity.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates-of-conformity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ministry-leadership-more-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry-leadership-more-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ministry-leadership-more.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry-leadership-more.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ministry-leadership.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry-leadership.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ministry_member.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry_member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ministry_structure.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry_structure.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eOawSgNxqmzRaBizbyvNOWoGGB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
@@ -49,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594195331742</updated>
       <workItem from="1594195334327" duration="16434000" />
+      <workItem from="1594810724284" duration="2819000" />
     </task>
     <servers />
   </component>
@@ -60,6 +79,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594195342571" />
+    <state x="591" y="217" width="1259" height="606" key="find.popup" timestamp="1594811391351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="217" width="1259" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594811391351" />
     <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594205112406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
