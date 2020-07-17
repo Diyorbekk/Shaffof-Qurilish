@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd68f8bd-cc84-4df7-8301-d8ad1908a561" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architectural-documents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e-government.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg-gallery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/docs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-hilton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-humo-images-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-humo-images-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-humo-images-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-humo-images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-humo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-minor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-nest-one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loading-icon-animated-gif.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/metal-hd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/news-build-hd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/news-img-hd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/news-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive-public-services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public-services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-gallery-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about_ministry.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_ministry.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/central-hardware.html" beforeDir="false" afterPath="$PROJECT_DIR$/central-hardware.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/certificates-of-conformity.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates-of-conformity.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ministry-leadership-more-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry-leadership-more-2.html" afterDir="false" />
@@ -24,9 +52,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,6 +81,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\shaffof qurilish\Shaffof-Qurilish\images" />
       <recent name="C:\Users\User\Desktop\shaffof qurilish\images" />
     </key>
   </component>
@@ -67,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594195331742</updated>
       <workItem from="1594195334327" duration="16434000" />
-      <workItem from="1594810724284" duration="2819000" />
+      <workItem from="1594810724284" duration="31949000" />
     </task>
     <servers />
   </component>
@@ -79,10 +108,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594195342571" />
-    <state x="591" y="217" width="1259" height="606" key="find.popup" timestamp="1594811391351">
+    <state x="591" y="217" width="1259" height="606" key="find.popup" timestamp="1594894727946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="591" y="217" width="1259" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594811391351" />
+    <state x="591" y="217" width="1259" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594894727946" />
+    <state x="616" y="244" key="run.anything.popup" timestamp="1594876747703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594876747703" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1594891952609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594891952609" />
     <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594205112406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -8,6 +8,25 @@ $(document).ready(function () {
         }
     });
 
+/*    function myFunction() {
+        $('body').css('overflow', 'hidden')
+        setTimeout(function () {
+
+            $('.window-loading').show()
+
+
+        }, 3000);
+
+        setTimeout(function () {
+            $('body').css('overflow', 'unset')
+            $('.window-loading').hide()
+
+        }, 6000);
+    }
+
+    myFunction();*/
+
+
     $('.accordion-application').on('click', function () {
         $(this).toggleClass("bg-white bg-light-grey-F4");
         $(this).toggleClass("border-bottom border-0");
@@ -218,7 +237,6 @@ $(document).ready(function () {
     /* Animation Number Function End */
 
 
-
     $(document).click(function (e) {
 
         if (!$(e.target).hasClass("first-menu-link")
@@ -265,9 +283,6 @@ $(document).ready(function () {
             }
         }
     });
-
-
-
 
 
 });

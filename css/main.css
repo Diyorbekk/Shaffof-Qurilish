@@ -17,6 +17,24 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+.window-loading {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    z-index: 99999999999;
+    left: 0;
+    background: #2e2e2e;
+}
+
+.window-loading img {
+    width: 100%;
+    height: auto;
+}
+
 
 /* colors css*/
 
@@ -126,11 +144,11 @@
 
 
 .color-blue {
-    color: #2452EB;
+    color: #2A52EB;
 }
 
 .bg-blue {
-    background: #2452EB;
+    background: #2A52EB;
 }
 
 .color-dark-blue {
@@ -151,6 +169,10 @@
 
 
 /* Text-size and color css */
+
+.text-8 {
+    font-size: 8px;
+}
 
 .text-11 {
     font-size: 11px;
@@ -334,26 +356,26 @@
 /**/
 
 /* Pages Footer menu css style start */
-.footer{
+.footer {
     padding: 58px 0 29px 0;
 }
 
-.footer-links-box{
+.footer-links-box {
     display: flex;
     justify-content: center;
 }
 
-.footer-links{
+.footer-links {
     display: block;
     width: 100%;
 }
 
-.footer-logo-img{
+.footer-logo-img {
     width: 320px;
     height: 62px;
 }
 
-.line-height-30{
+.line-height-30 {
     line-height: 30px;
 }
 
@@ -513,7 +535,7 @@
     border: 1px solid #28366D;
 }
 
-.territorial-administrations-info-box{
+.territorial-administrations-info-box {
     display: none;
 }
 
@@ -523,87 +545,89 @@
     align-items: start;
 }
 
-.territorial-administrations-info-box-title{
+.territorial-administrations-info-box-title {
     padding-left: 15px;
     border-left: 5px solid black;
     margin-bottom: 0;
 }
 
-.map-uzbekistan{
+.map-uzbekistan {
     width: 100%;
     height: 100%;
 }
 
-.map-uzbekistan path{
+.map-uzbekistan path {
     fill: #e5e5e5;
     stroke: white;
     stroke-width: 1px;
     cursor: pointer;
 }
 
-.map-uzbekistan path:hover{
+.map-uzbekistan path:hover {
     fill: rgba(159, 186, 220, 0.51);
 
 }
 
-.map-uzbekistan path.active{
+.map-uzbekistan path.active {
     fill: #28366D;
 }
 
-.pb-100-px{
+.pb-100-px {
     padding-bottom: 100px;
 }
 
-.appeals-box-insurance{
+.appeals-box-insurance {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.appeals-box-insurance-img{
+.appeals-box-insurance-img {
     width: 40px;
     height: 40px;
 }
 
-.appeals-box-insurance-animation-number{
+.appeals-box-insurance-animation-number {
     font-size: 31px;
     font-weight: 900;
     color: #28366D;
 }
 
 
-
-
 /* main-page css style end */
 
 /* Pages css style start */
 
-.transform-square{
+.transform-square {
     display: block;
     width: 14px;
     height: 14px;
     transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
 }
 
-.text-active{
+.text-active {
     border-bottom: 4px solid #334075;
 }
 
-.w-130-px{
+.w-130-px {
     width: 130px;
 }
 
 .responsibilities,
-.biography{
+.biography {
     display: flex;
 }
 
+.responsibilities {
+    display: none;
+}
+
 #responsibilities,
-#biography{
+#biography {
     cursor: pointer;
 }
 
-.accordion-application{
+.accordion-application {
     cursor: pointer;
     align-items: center;
 }
@@ -625,17 +649,220 @@
     font-weight: 600;
 }
 
-.input-style input::placeholder{
+.input-style input::placeholder {
     color: #C4C4C4;
     font-size: 14px;
     font-weight: 100;
 }
 
+input::placeholder {
+    color: #C4C4C4;
+    font-size: 14px;
+    font-weight: 100;
+}
 
+.btn.focus-none:focus {
+    outline: unset;
+    box-shadow: unset;
+}
+
+input.focus-none:focus {
+    outline: unset;
+    box-shadow: unset;
+}
+
+.input-group {
+    transition: all 0.5s ease-in-out;
+}
+
+.input-group:hover {
+    box-shadow: 0 0 5px 2px rgba(0, 0, 255, 0.11);
+    transition: all 0.5s ease-in-out;
+    border: none;
+}
+
+.first-table-th {
+    width: 48px;
+}
+
+.w-35 {
+    width: 35%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.table thead tr th {
+    padding: 1.2rem;
+}
+
+.page-item.arrows {
+    background: white;
+    box-shadow: 0 0 6px #00000029;
+    border-radius: unset;
+}
+
+.page-item.arrows:hover {
+    background: #28366D;
+    box-shadow: unset;
+}
+
+.page-link {
+    border: none;
+    color: #28366D;
+}
+
+.page-link.active {
+    color: white;
+    background: #28366D;
+}
+
+.page-item.arrows:hover .page-link {
+    color: white;
+    background: #28366D !important;
+}
+
+.page-item.arrows .page-link {
+    color: black;
+}
+
+.h-260 {
+    height: 260px;
+}
+
+.w-245 {
+    width: 245px;
+}
+
+.gallery-photos {
+    width: 100%;
+    height: 220px;
+}
+
+.gallery-text {
+    position: absolute;
+    width: 100%;
+    bottom: -20px;
+    height: 40%;
+    background-image: url("../images/bg-gallery.svg");
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gallery-top-photo {
+    margin: 40px 35px;
+    flex-wrap: wrap;
+}
+
+.gallery-top-photo-img {
+    width: 100%;
+    height: 390px;
+}
+
+.gallery-bottom-photo-img {
+    width: 100%;
+    height: 170px;
+}
+
+.gallery-thumbs .swiper-slide {
+    height: 100%;
+    opacity: 0.4;
+}
+
+.gallery-thumbs .swiper-slide-thumb-active {
+    opacity: 1;
+}
+
+.left-video[poster] {
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-right-video {
+    background-image: url("../images/gallery-hilton.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-right-video[poster]{
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-right-video-2 {
+    background-image: url("../images/gallery-nest-one.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-right-video-box {
+    width: 100%;
+    height: 47.2%;
+}
+
+.gallery-left-video-box .gallery-text {
+    position: absolute;
+    width: 100%;
+    bottom: -20px;
+    height: 35%;
+    background-image: url(../images/bg-gallery.svg);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: 100%;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+
+.gallery-right-video-box .gallery-text {
+    position: absolute;
+    width: 100%;
+    bottom: -20px;
+    height: 40%;
+    background-image: url(../images/bg-gallery.svg);
+    background-repeat: no-repeat;
+    display: flex;
+    background-size: 100%;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+
+.play-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.left-play {
+    width: 96px;
+    height: 96px;
+    cursor: pointer;
+}
+
+.right-play{
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+}
 
 
 /* Pages css style end */
-
 
 
 /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/

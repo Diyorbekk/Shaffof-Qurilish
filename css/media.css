@@ -184,6 +184,11 @@
         margin-bottom: 40px;
     }
 
+    .gallery-photos {
+        width: 100%;
+        height: 160px;
+    }
+
     /* main-page css style end */
 
     /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
@@ -304,6 +309,26 @@
         height: 300px;
     }
 
+    .h-260{
+        height: 100%;
+    }
+
+    .w-245{
+        width: 100%;
+    }
+
+    .gallery-top-photo{
+        margin: 0;
+    }
+
+    .gallery-top-photo-img{
+        height: 250px;
+    }
+
+    .gallery-bottom-photo-img{
+        height: 70px;
+    }
+
     /* main-page css style end */
 
     /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
@@ -325,6 +350,15 @@
     .footer-links-box{
         display: flex;
         justify-content: start;
+    }
+
+    .window-loading img {
+        width: 100%;
+        height: auto;
+    }
+
+    .window-loading{
+        background: #2e2e2e;
     }
 
     /* Pages Footer menu css style end */
@@ -448,6 +482,36 @@
 
     /* main-page css style end */
 
+    /* Pages css style start */
+
+    .input-group.w-35{
+        width: 100%;
+        margin: 10px 1rem;
+    }
+
+    .gallery-top-photo{
+        margin: 0;
+    }
+
+    .gallery-top-photo-img{
+        height: 250px;
+    }
+
+    .gallery-bottom-photo-img{
+        height: 70px;
+    }
+
+    .h-260{
+        height: 100%;
+    }
+
+    .w-245{
+        width: 100%;
+    }
+
+    /* Pages css style end */
+
+
     /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
     /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
     /**/ /**/ /**/ /**/ /**/ /**/ /**/
@@ -468,6 +532,17 @@
         display: flex;
         justify-content: start;
     }
+
+    .window-loading img {
+        width: 100%;
+        height: auto;
+    }
+
+    .window-loading{
+        background: #2e2e2e;
+    }
+
+
 
     /* Pages Footer menu css style end */
 
@@ -594,6 +669,32 @@
     .w-130-px{
         width: 80px;
     }
+
+    .input-group.w-35{
+        width: 100%;
+        margin: 10px 1rem;
+    }
+
+    .h-260{
+        height: 100%;
+    }
+
+    .w-245{
+        width: 100%;
+    }
+
+    .gallery-top-photo{
+        margin: 0;
+    }
+
+    .gallery-top-photo-img{
+        height: 250px;
+    }
+
+    .gallery-bottom-photo-img{
+        height: 70px;
+    }
+
     /* Pages css style end */
 
 
@@ -616,6 +717,15 @@
     .footer-links-box{
         display: flex;
         justify-content: start;
+    }
+
+    .window-loading img {
+        width: 100%;
+        height: auto;
+    }
+
+    .window-loading{
+        background: #2e2e2e;
     }
 
     /* Pages Footer menu css style end */
