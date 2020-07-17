@@ -8,7 +8,7 @@ $(document).ready(function () {
         }
     });
 
-/*    function myFunction() {
+    function myFunction() {
         $('body').css('overflow', 'hidden')
         setTimeout(function () {
 
@@ -24,7 +24,7 @@ $(document).ready(function () {
         }, 6000);
     }
 
-    myFunction();*/
+    myFunction();
 
 
     $('.accordion-application').on('click', function () {
