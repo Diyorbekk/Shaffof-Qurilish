@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;600;700;800&display=swap"
           rel="stylesheet">
     <link rel="stylesheet" href="fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="css/jquery.calendar.css">
 
 
     <!-- Swiper css link -->
@@ -929,6 +930,32 @@
         </div>
 
         <div class="col-xl-4 pl-xl-4 pl-0 pr-0">
+        <div class="d-flex justify-content-between align-items-end">
+        	<div class="col-md-6 px-md-0">
+        	<p class="text-15 text-left" style="line-height: 15px;">Juma</p>
+        	</div>
+        	<div class="col-md-6">
+        		<div class="d-flex align-items-center justify-content-between">
+        			<p class="mb-0 text-48 color-dark-blue mr-3">
+        			02
+        			</p>
+        			
+        			<div class="d-flex flex-column text-left">
+        			<p class="mb-0 text-26 color-dark-blue line-height-26">
+        			sentabr
+        			</p>
+        			
+        			<p class="mb-0 text-12 color-light-grey-B7">
+        			2020 yil
+        			</p>
+        			</div>
+        
+        		</div>
+        	</div>
+        </div>
+        
+        <div id="pnlSimpleCalendar" class="w-100 mb-md-3"></div>
+        
             <div class="right-service bg-light-grey-F8">
                 <a href="#"
                    class="right-service-title font-weight-bold d-flex align-items-center text-body text-decoration-none justify-content-between">Interaktiv
@@ -1260,7 +1287,9 @@
 <div class="window-loading">
     <img src="images/loading-icon-animated-gif.jpg" alt="jpg">
 </div>
+
 <script src="js/jQuery.min.js"></script>
+<script src="js/jquery.calendar.js"></script>
 <script src="js/popper.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/main.js"></script>
@@ -1311,6 +1340,11 @@
             nextEl: '.swiper-button-next',
             prevEl: '.swiper-button-prev',
         },
+    });
+</script>
+<script>
+    $(function () {
+        $('#pnlSimpleCalendar').calendar();
     });
 </script>
 </body>
