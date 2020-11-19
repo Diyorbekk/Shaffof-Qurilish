@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd68f8bd-cc84-4df7-8301-d8ad1908a561" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/announcements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/connection.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact-the-information-service.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/accouncements-img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/map-tasheknt.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about_ministry.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_ministry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answers.html" beforeDir="false" afterPath="$PROJECT_DIR$/answers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architectural-documents.html" beforeDir="false" afterPath="$PROJECT_DIR$/architectural-documents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/central-hardware.html" beforeDir="false" afterPath="$PROJECT_DIR$/central-hardware.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certificates-of-conformity.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates-of-conformity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e-government.html" beforeDir="false" afterPath="$PROJECT_DIR$/e-government.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive-public-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/interactive-public-services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ministry-leadership-more-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry-leadership-more-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ministry-leadership-more.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry-leadership-more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ministry-leadership.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry-leadership.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ministry_member.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry_member.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ministry_structure.html" beforeDir="false" afterPath="$PROJECT_DIR$/ministry_structure.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/news-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/public-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/video-gallery-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/video-gallery-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video-gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/video-gallery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +61,8 @@
       <updated>1594195331742</updated>
       <workItem from="1594195334327" duration="16434000" />
       <workItem from="1594810724284" duration="37388000" />
+      <workItem from="1599657397753" duration="247000" />
+      <workItem from="1601112518334" duration="95000" />
     </task>
     <servers />
   </component>
